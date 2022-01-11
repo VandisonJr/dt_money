@@ -25,8 +25,14 @@
   - git clone https://github.com/VandisonJr/dt-finance
 
 - **Install dependencies with:**
-  -  `yarn`
+  ```
+  yarn
+  ```
+
 
 - **Then run it on localhost:**
-  -  `yarn start`
+  
+  ```
+  yarn start
+  ```
 
